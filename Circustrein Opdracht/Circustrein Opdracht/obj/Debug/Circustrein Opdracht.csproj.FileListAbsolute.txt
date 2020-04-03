@@ -1,0 +1,19 @@
+C:\Users\Dylan Arts\source\repos\Circustrein Opdracht\Circustrein Opdracht\bin\Debug\Circustrein Opdracht.exe.config
+C:\Users\Dylan Arts\source\repos\Circustrein Opdracht\Circustrein Opdracht\bin\Debug\Circustrein Opdracht.exe
+C:\Users\Dylan Arts\source\repos\Circustrein Opdracht\Circustrein Opdracht\bin\Debug\Circustrein Opdracht.pdb
+C:\Users\Dylan Arts\source\repos\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein Opdracht.csprojAssemblyReference.cache
+C:\Users\Dylan Arts\source\repos\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein_Opdracht.Form1.resources
+C:\Users\Dylan Arts\source\repos\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein_Opdracht.Properties.Resources.resources
+C:\Users\Dylan Arts\source\repos\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein Opdracht.csproj.GenerateResource.cache
+C:\Users\Dylan Arts\source\repos\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein Opdracht.exe
+C:\Users\Dylan Arts\source\repos\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein Opdracht.pdb
+C:\Users\artsd\OneDrive\Bureaublad\Circustrein Opdracht\Circustrein Opdracht\bin\Debug\Circustrein Opdracht.exe.config
+C:\Users\artsd\OneDrive\Bureaublad\Circustrein Opdracht\Circustrein Opdracht\bin\Debug\Circustrein Opdracht.exe
+C:\Users\artsd\OneDrive\Bureaublad\Circustrein Opdracht\Circustrein Opdracht\bin\Debug\Circustrein Opdracht.pdb
+C:\Users\artsd\OneDrive\Bureaublad\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein Opdracht.csprojAssemblyReference.cache
+C:\Users\artsd\OneDrive\Bureaublad\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein_Opdracht.Form1.resources
+C:\Users\artsd\OneDrive\Bureaublad\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein_Opdracht.Properties.Resources.resources
+C:\Users\artsd\OneDrive\Bureaublad\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein Opdracht.csproj.GenerateResource.cache
+C:\Users\artsd\OneDrive\Bureaublad\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein Opdracht.exe
+C:\Users\artsd\OneDrive\Bureaublad\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein Opdracht.pdb
+C:\Users\artsd\OneDrive\Bureaublad\Circustrein Opdracht\Circustrein Opdracht\obj\Debug\Circustrein Opdracht.csproj.CoreCompileInputs.cache
